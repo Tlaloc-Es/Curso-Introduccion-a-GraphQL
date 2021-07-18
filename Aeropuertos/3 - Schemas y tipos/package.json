@@ -1,0 +1,22 @@
+{
+  "name": "schemas-y-tipos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "env-cmd nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.23.0",
+    "env-cmd": "^10.1.0",
+    "graphql": "^15.5.0",
+    "graphql-type-datetime": "^0.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

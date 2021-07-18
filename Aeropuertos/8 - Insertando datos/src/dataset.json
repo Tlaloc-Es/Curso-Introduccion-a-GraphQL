@@ -1,0 +1,194 @@
+[
+    {
+        "id": "76085b24-089e-4c13-9907-3df393d761bf",
+        "rutas": [
+            {
+                "id": "6b84b824-12fc-49ed-9203-8e9ec5b8e94c",
+                "fechaHoraSalida": "2015-01-01T07:58:23.096Z",
+                "kilometros": 4884
+            }
+        ],
+        "localizacion": "North Pasqualemouth",
+        "aviones": [
+            {
+                "id": "005269b4-65ca-4d80-ab7e-6f99c814d0f7",
+                "matricula": "en_BORK - 34372 - 3581",
+                "velocidadHora": 151,
+                "pasajeros": [
+                    {
+                        "id": "e9cec544-6e8d-4daa-b897-866e7ecbda9c",
+                        "nombre": "Kelsie",
+                        "apellido": "Anderson"
+                    },
+                    {
+                        "id": "9860494e-cf67-41af-b217-c8583afcebdf",
+                        "nombre": "Lura",
+                        "apellido": "Treutel"
+                    }
+                ]
+            },
+            {
+                "id": "206fc929-b82b-4b89-9158-0cd165f443ca",
+                "matricula": "ja - 04452-1834 - 1509",
+                "velocidadHora": 381,
+                "pasajeros": [
+                    {
+                        "id": "a9c2efd7-92a2-4186-83da-898494baee68",
+                        "nombre": "Edyth",
+                        "apellido": "Rath"
+                    },
+                    {
+                        "id": "4e882adc-c13a-4bda-8740-35f37ea6c876",
+                        "nombre": "Jonas",
+                        "apellido": "Smith"
+                    }
+                ]
+            },
+            {
+                "id": "b1c3ff7d-c9cd-4032-b18b-eccdcd53bd68",
+                "matricula": "sv - 37900-2281 - 1309",
+                "velocidadHora": 898,
+                "pasajeros": [
+                    {
+                        "id": "0691e697-d094-46e1-8b67-36ea437d9acd",
+                        "nombre": "Sabrina",
+                        "apellido": "Hayes"
+                    },
+                    {
+                        "id": "aacf4fca-885e-47b2-b783-d6cecd3d4e2e",
+                        "nombre": "Hobart",
+                        "apellido": "Moore"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "74d36267-5486-46b7-8b42-f32db6bcaab2",
+        "rutas": [
+            {
+                "id": "44a1042a-2557-4a5d-811d-213ffa7438d8",
+                "fechaHoraSalida": "2015-01-01T03:07:27.627Z",
+                "kilometros": 3408
+            }
+        ],
+        "localizacion": "South Abdullah",
+        "aviones": [
+            {
+                "id": "cf98c3f9-45b4-4496-8ec4-84d13d0c85d2",
+                "matricula": "ar - 52774-1836 - 2219",
+                "velocidadHora": 921,
+                "pasajeros": [
+                    {
+                        "id": "3198bfab-17c4-42dd-b979-5878d336a5dc",
+                        "nombre": "Bret",
+                        "apellido": "Hegmann"
+                    },
+                    {
+                        "id": "6798a857-3e2d-4e4a-abdd-f5d8b4e5963d",
+                        "nombre": "Donnie",
+                        "apellido": "Wilkinson"
+                    }
+                ]
+            },
+            {
+                "id": "0425c0f5-3855-43cf-b45f-c19281052d1f",
+                "matricula": "ro - 87612 - 2140",
+                "velocidadHora": 862,
+                "pasajeros": [
+                    {
+                        "id": "84ef125f-202b-476a-a947-05805991ef7a",
+                        "nombre": "Clint",
+                        "apellido": "Carroll"
+                    },
+                    {
+                        "id": "e4f16822-b47e-43b3-9ac5-58e6bbff7742",
+                        "nombre": "Sunny",
+                        "apellido": "Barton"
+                    }
+                ]
+            },
+            {
+                "id": "632b0db8-1bc6-428f-abc3-416689f589f7",
+                "matricula": "vi - 99563-5462 - 4971",
+                "velocidadHora": 882,
+                "pasajeros": [
+                    {
+                        "id": "fe4a8473-6e45-4103-ab30-2cbc11cc7bea",
+                        "nombre": "Camren",
+                        "apellido": "Tromp"
+                    },
+                    {
+                        "id": "5bb5eeae-f651-436f-8fd4-e8103752baab",
+                        "nombre": "Jules",
+                        "apellido": "Rau"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "a9397b9d-ede6-434b-80ed-a451eda35148",
+        "rutas": [
+            {
+                "id": "141f133c-7407-4d09-903d-c5e1c374cc98",
+                "fechaHoraSalida": "2015-01-04T01:02:24.191Z",
+                "kilometros": 9536
+            }
+        ],
+        "localizacion": "Domenicafurt",
+        "aviones": [
+            {
+                "id": "be496ba0-cb0b-4d36-b3cc-e941414970b1",
+                "matricula": "fa - 84521-7928 - 2302",
+                "velocidadHora": 140,
+                "pasajeros": [
+                    {
+                        "id": "ad481d3e-f6f9-436b-9397-fae9131ba6b3",
+                        "nombre": "Royal",
+                        "apellido": "Hills"
+                    },
+                    {
+                        "id": "954a470e-70ca-493e-b924-e996587189e5",
+                        "nombre": "Ulices",
+                        "apellido": "Stanton"
+                    }
+                ]
+            },
+            {
+                "id": "2891e53b-a58a-4fee-b0d0-59fd102d556c",
+                "matricula": "he - 58409-9771 - 2497",
+                "velocidadHora": 827,
+                "pasajeros": [
+                    {
+                        "id": "56fb9959-a197-47aa-88d9-cddd20113809",
+                        "nombre": "Lyda",
+                        "apellido": "Stanton"
+                    },
+                    {
+                        "id": "9d669f7a-3707-4130-8da0-8fe75b396a35",
+                        "nombre": "Haven",
+                        "apellido": "Schamberger"
+                    }
+                ]
+            },
+            {
+                "id": "a987b376-f022-4696-95cf-73f9a22b9e1f",
+                "matricula": "uk - 34137 - 3761",
+                "velocidadHora": 105,
+                "pasajeros": [
+                    {
+                        "id": "e538aa17-9f60-428d-aefd-2ebe878c5b01",
+                        "nombre": "Gregoria",
+                        "apellido": "Pagac"
+                    },
+                    {
+                        "id": "0dd44ec8-7b38-4c81-9f49-e9651b7c90b5",
+                        "nombre": "Parker",
+                        "apellido": "Schinner"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+query{
+  listarAeropuertos {
+  	nombre
+		conexiones {
+			nombre
+			conexiones {
+				nombre
+			}
+		}
+	}
+}
+

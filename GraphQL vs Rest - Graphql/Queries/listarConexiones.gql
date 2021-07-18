@@ -1,0 +1,9 @@
+{
+  listarConexiones(aeropuerto:"Bilbao") {
+		nombre
+		conexiones {
+				nombre
+			}
+	}
+}
+

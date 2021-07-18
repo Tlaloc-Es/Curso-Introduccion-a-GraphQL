@@ -1,0 +1,17 @@
+{
+  "name": "servidor-basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tlaloc-es",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.21.0",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

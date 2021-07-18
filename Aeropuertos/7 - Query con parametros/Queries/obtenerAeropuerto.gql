@@ -1,0 +1,12 @@
+{
+  #obtenerAeropuerto{
+  #  localizacion
+  #}
+
+  obtenerAeropuerto(localizacion: "Domenicafurt"){
+    localizacion
+    rutas{
+      fechaHoraSalida
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  listarAeropuertos {
+    id
+    localizacion
+    aviones{
+      id
+      pasajeros {
+        nombre
+      }
+    }
+  }
+}

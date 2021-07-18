@@ -1,0 +1,4 @@
+//GET http://localhost:4001/aeropuertos
+
+GET http://localhost:4001/conexiones/?aeropuerto=Bilbao
+

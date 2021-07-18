@@ -1,0 +1,8 @@
+mutation {
+  vaciarPasajeros(idAvion: "005269b4-65ca-4d80-ab7e-6f99c814d0f7"){
+    id
+    pasajeros {
+      nombre
+    }
+  }
+}
